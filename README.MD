@@ -25,8 +25,8 @@ Projeyi başlatmak için şu adımları takip edebilirsiniz:
 
 ```bash
 # 1. Projeyi klonlayın (ya da zip olarak indirin)
-git clone https://github.com/kullaniciadi/s4e-free-security-tools-tests.git
-cd s4e-test2-project
+git clone https://github.com/ibrahimbulut123/s4e-test-projesi
+cd s4e-test-projesi
 
 # 2. Gerekli bağımlılıkları yükleyin
 npm install
